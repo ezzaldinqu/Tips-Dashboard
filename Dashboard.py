@@ -2,7 +2,6 @@ from os import write
 
 import pandas as pd
 import numpy as np
-from matplotlib.pyplot import plot as plt
 import plotly.express as px
 import streamlit as st
 import plotly.graph_objects as go
